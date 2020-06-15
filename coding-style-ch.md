@@ -121,13 +121,13 @@
  ```
  switch (x) {
  case 1:
-  do_something();
-  break;
+ 	do_something();
+ 	break;
  case 2:
-  do_something();
-  break;
+ 	do_something();
+ 	break;
  default:
-  break;
+ 	break;
  }
  ```
  
